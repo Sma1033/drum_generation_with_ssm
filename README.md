@@ -10,3 +10,5 @@ Implementation of [*GENERATING STRUCTURED DRUM PATTERN USING VARIATIONAL AUTOENC
 4. Librosa
 5. Scipy
 6. Matplotlib  
+
+## To Be Continued
