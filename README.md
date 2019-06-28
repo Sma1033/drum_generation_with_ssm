@@ -4,8 +4,9 @@ Implementation of [*GENERATING STRUCTURED DRUM PATTERN USING VARIATIONAL AUTOENC
 
 ## Dependencies
 ### Environment
-Ubuntu 16.04
-Tensorflow 1.13+
-Python 3.5+  
-Librosa
-Scipy
+1. Ubuntu 16.04
+2. Tensorflow 1.13+
+3. Python 3.5+  
+4. Librosa
+5. Scipy
+6. Matplotlib  
