@@ -10,10 +10,11 @@ Listening example is available [here](https://sma1033.github.io/drum_generation_
 ## Dependencies
 ### Environment
 1. Ubuntu 16.04
-2. Tensorflow 1.13+
-3. Python 3.5+  
-4. Librosa
-5. Scipy
-6. Matplotlib  
+2. Jupyter Notebook
+3. Tensorflow 1.13+
+4. Python 3.5+  
+5. Librosa
+6. Scipy
+7. Matplotlib
 
 ## To Be Continued
