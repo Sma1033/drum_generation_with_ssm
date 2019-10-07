@@ -21,6 +21,7 @@ Listening example is available [here](https://sma1033.github.io/drum_generation_
 3. Python 3.5+ 
 4. Tensorflow 1.13+
 5. Librosa
+6. FluidSynth
 
 
 ## To Be Continued
