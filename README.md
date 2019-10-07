@@ -7,7 +7,8 @@ With SSM as song structure representation, we successfully demonstrate that it i
 ## The Flow of Generation
 ![Generation Flow](misc/generation_flow.png "Generation Flow")
 
-- **Data Pre-Processing**: use script
+- **Data Pre-Processing**: Melodic-track MIDI data is synthesized into 44.1 kHz mono-channel audio, then, converted and divided into CQT spectrogram on bar basis. Each bar is a 84 x 96 matrix. Drum tracks are down-sampled to 46 x 16 for each bar.
+
 - **Bar Selection**: use script
 - **Drum Pattern Generation**: use script
 
