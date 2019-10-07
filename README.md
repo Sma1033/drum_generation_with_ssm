@@ -16,10 +16,10 @@ Listening example is available [here](https://sma1033.github.io/drum_generation_
 
 
 ## Environment
-1. Ubuntu 16.04
+1. Ubuntu 18.04
 2. Jupyter Notebook
-3. Python 3.5+ 
-4. Tensorflow 1.13+
+3. Python 3.6 
+4. Tensorflow 1.13
 5. Librosa
 6. FluidSynth
 
