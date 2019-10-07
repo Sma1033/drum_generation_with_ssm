@@ -1,3 +1,6 @@
+Project drum generation with ssm
+==================
+
 # drum_generation_with_ssm
 Implementation of [*GENERATING STRUCTURED DRUM PATTERN USING VARIATIONAL AUTOENCODER AND SELF-SIMILARITY MATRIX*]
 
