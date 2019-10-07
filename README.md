@@ -8,14 +8,10 @@ With SSM as song structure representation, we successfully demonstrate that it i
 ![Generation Flow](misc/generation_flow.png "Generation Flow")
 
 - **Data Pre-Processing**: use script
+- **Bar Selection**: use script
+- **Drum Pattern Generation**: use script
 
 
-- Bar Selection
-use script
-
-- Drum Pattern Generation
-
-use script
 
 Listening example is available [here](https://sma1033.github.io/drum_generation_with_ssm/ "link").
 
