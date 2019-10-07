@@ -13,7 +13,7 @@ With SSM as song structure representation, we successfully demonstrate that it i
 
 
 
-Listening example is available [here](https://sma1033.github.io/drum_generation_with_ssm/ "link"). (It may take a while for reading audio file.)
+Listening example is available [here](https://sma1033.github.io/drum_generation_with_ssm/ "link"). (It may take a while to read audio.)
 
 
 ## Environment
