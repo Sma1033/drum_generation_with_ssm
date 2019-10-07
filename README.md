@@ -12,7 +12,7 @@ With SSM as song structure representation, we successfully demonstrate that it i
 - **Training**: Selected 8-bar spectrogram are feed into a VAE-based drum pattern generator as input. Symbolic drum track data is used as ground truth to minimizing loss term.
 - **Generation**: Similar procedure is performed to generate drum patterns for each single bar except inferred drum SSM is applied for bar selection. 
 
-Listening example is available [here](https://sma1033.github.io/drum_generation_with_ssm/ "link"). (It may take a while to read audio files.)
+Listening example is available [here](https://sma1033.github.io/drum_generation_with_ssm/ "link"). (may take a while to open.)
 
 
 ## Environment
