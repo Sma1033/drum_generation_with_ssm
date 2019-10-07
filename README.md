@@ -7,12 +7,10 @@ With SSM as song structure representation, we successfully demonstrate that it i
 ## The Flow of Generation
 ![Generation Flow](misc/generation_flow.png "Generation Flow")
 
-- Data Pre-Processing
+- **Data Pre-Processing**: use script
 
-use script
 
 - Bar Selection
-
 use script
 
 - Drum Pattern Generation
