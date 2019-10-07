@@ -8,11 +8,8 @@ With SSM as song structure representation, we successfully demonstrate that it i
 ![Generation Flow](misc/generation_flow.png "Generation Flow")
 
 - **Data Pre-Processing**: Melodic-track MIDI data is synthesized into 44.1 kHz mono-channel audio, then, converted and divided into CQT spectrogram on bar basis. Each bar is a 84 x 96 matrix. Drum tracks are down-sampled to 46 x 16 for each bar.
-
 - **Bar Selection**: Selected 8-bar spectrogram are feed into a VAE-based drum pattern generator as input. Symbolic drum track data is used as ground truth to minimizing loss term.
-
 - **Drum Pattern Generation**: Similar procedure is performed to generate drum patterns for each single bar except inferred drum SSM is applied for bar selection. 
-
 
 Listening example is available [here](https://sma1033.github.io/drum_generation_with_ssm/ "link"). (It may take a while to read audio files.)
 
