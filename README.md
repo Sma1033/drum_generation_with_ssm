@@ -7,11 +7,22 @@ With SSM as song structure representation, we successfully demonstrate that it i
 ## The Flow of Generation
 ![Generation Flow](misc/generation_flow.png "Generation Flow")
 
+- Data Pre-Processing
+
+use script
+
+- Bar Selection
+
+use script
+
+- Drum Pattern Generation
+
+use script
+
 Listening example is available [here](https://sma1033.github.io/drum_generation_with_ssm/ "link").
 
 
-## Dependencies
-### Environment
+## Environment
 1. Ubuntu 16.04
 2. Jupyter Notebook
 3. Python 3.5+ 
