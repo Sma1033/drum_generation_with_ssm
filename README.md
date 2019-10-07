@@ -1,4 +1,4 @@
-Project drum generation with ssm
+Drum Generation with Self-Similarity Matrix (SSM)
 ==================
 
 # drum_generation_with_ssm
