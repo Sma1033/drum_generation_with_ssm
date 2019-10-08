@@ -1,7 +1,7 @@
 Drum Generation with Self-Similarity Matrix (SSM)
 ==================
 
-This is the supplemental repository for ISMIR 2019 paper **GENERATING STRUCTURED DRUM PATTERN USING VARIATIONAL AUTOENCODER AND SELF-SIMILARITY MATRIX**. The goal of this project is using machine learning model to generate long drum-track for a given song.
+The goal of this project is using machine learning model to generate long drum-track for a given song.
 With SSM as song structure representation, we successfully demonstrate that it is possible to generate drum-track with long-term consistency. This project uses Google's [TensorFlow](https://www.tensorflow.org/ "link") and [Jupyter Notebook](https://github.com/jupyter/notebook "link") to make the implementation easier.
 
 ## The Flow of Generation
