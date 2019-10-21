@@ -16,12 +16,13 @@ Listening example is available [here](https://sma1033.github.io/drum_generation_
 
 
 ## Environment
-1. Ubuntu 18.04
-2. Jupyter Notebook
-3. Python 3.6 
-4. Tensorflow 1.14
-5. Librosa
-6. FluidSynth
+1. Intel E5 2660 V4 + Nvidia 1080 Ti (CUDA 9.0 + CUDNN 7.5)
+2. Ubuntu 18.04
+3. Python 3.6
+4. Jupyter Notebook
+5. Tensorflow 1.14
+6. Librosa
+7. FluidSynth
 
 
 ## How to use
