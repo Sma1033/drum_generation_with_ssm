@@ -1,0 +1,2 @@
+model_checkpoint_path: "sarr_model.ckpt"
+all_model_checkpoint_paths: "sarr_model.ckpt"
