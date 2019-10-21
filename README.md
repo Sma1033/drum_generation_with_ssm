@@ -24,4 +24,8 @@ Listening example is available [here](https://sma1033.github.io/drum_generation_
 6. FluidSynth
 
 
-## To Be Continued
+## How to use
+1. Download all the files into a specific dir, say, ~/home/drum_generation
+2. Download the SountFonts file [here](https://drive.google.com/open?id=1XTrXR27cj02kh1Bxs6YvPTosbQdDN_Am "link"), put it into ~/home/drum_generation
+3. download pre-trained SSM generation model according to the guildline in "ssm_generator_model/readme.md"
+3. download pre-trained drum generation model according to the guildline in "drum_generator_model/readme.md"
