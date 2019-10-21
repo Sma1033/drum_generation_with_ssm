@@ -26,7 +26,7 @@ Listening example is available [here](https://sma1033.github.io/drum_generation_
 
 ## How to use
 1. Download all the files into a specific dir, say, ~/drum_generation
-2. Download the SountFonts file [here](https://drive.google.com/open?id=1XTrXR27cj02kh1Bxs6YvPTosbQdDN_Am "link"), put it into ~/drum_generation
+2. Download the SountFonts file [here](https://drive.google.com/open?id=1XTrXR27cj02kh1Bxs6YvPTosbQdDN_Am "link"), extract and put it into ~/drum_generation
 3. Download pre-trained drum generation model according to the guildline in "drum_generator_model/readme.md"
 4. Install dependencies 
 5. Follow the Noteboot file from step_1 to step_5 to generate drum tracks for MIDI files in "input_midi" folder
