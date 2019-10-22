@@ -43,7 +43,7 @@ For now, we only provide generation part of our model. For training details, ple
    The file contains most pre-processing steps taken for the purposed model. From input MIDI file, we can extract melodic track spectrogram and melodic/drum SSM data.
 
 - `step_2_generate_drum_ssm_from_melodic_ssm.ipynb` <br/>
-   The file contains drum SSM generation model and all the necessary procedures to predict drum SSM from input melodic SSM.
+   The file contains drum SSM generation model and all the necessary procedures to predict drum SSM from an input melodic SSM.
    
 - `step_3_extract_bar_selection_info.ipynb` <br/>
    With generated drum SSM in step 2, bar selection mechanism is now applied on melodic track spectrogram to select most relevant bars for drum track generation.
