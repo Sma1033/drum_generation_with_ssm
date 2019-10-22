@@ -39,11 +39,22 @@ For now, we only provide generation part of our model. For training details, ple
 
 ## Explanation for files
 
-- `step_1_midi_data_preprocessing.ipynb`:<br/>
-   pre processing fgfsdgsdfg  ghfdh
+- `step_1_midi_data_preprocessing.ipynb` <br/>
+   The file contains most pre-processing steps taken for the model. From input MIDI file, we can extract melodic track spectrogram and melodic/drum SSM in this file.
 
-- `step_2_generate_drum_ssm_from_melodic_ssm.ipynb`:<br/>
-   pre processing 2
+- `step_2_generate_drum_ssm_from_melodic_ssm.ipynb` <br/>
+   The file contains drum SSM generation model and all the necessary procedure to predict drum SSM from input melodic SSM.
+   
+- `step_3_extract_bar_selection_info.ipynb` <br/>
+   With generated drum SSM in step 2, bar selection mechanism is now applied on melodic track spectrogram to select most relevent bars for drum track generation.
+   
+- `step_4_generate_drum_pattern.ipynb` <br/>
+   Use pretrained drum generation model to generate drum track data (format: numpy array).
+   
+- `step_5_convert_data_into_MIDI.ipynb` <br/>
+   Convert generate drum track data into MIDI format, output file can be obtained in folder "output_midi"
+   
+   
    
    
    
