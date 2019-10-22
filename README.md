@@ -40,7 +40,7 @@ For now, we only provide generation part of our model. For training details, ple
 ## Explanation for files
 
 - `step_1_midi_data_preprocessing.ipynb` <br/>
-   The file contains most pre-processing steps taken for the model. From input MIDI file, we can extract melodic track spectrogram and melodic/drum SSM in this file.
+   The file contains most pre-processing steps taken for the purposed model. From input MIDI file, we can extract melodic track spectrogram and melodic/drum SSM in this file.
 
 - `step_2_generate_drum_ssm_from_melodic_ssm.ipynb` <br/>
    The file contains drum SSM generation model and all the necessary procedures to predict drum SSM from input melodic SSM.
