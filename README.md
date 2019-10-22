@@ -31,7 +31,7 @@ For now, we only provide generation code of our model. For training details, ple
 1. Download all repository files into your local folder, say, ~/drum_generation/
 2. Download the SountFonts [here](https://drive.google.com/open?id=1XTrXR27cj02kh1Bxs6YvPTosbQdDN_Am "link"), extract and put it into ~/drum_generation/
 3. Download pre-trained drum generation model according to the guildline in "drum_generator_model/readme.md"
-4. Put your own MIDI files into folder "drum_generator_model/input_midi"
+4. Put your own MIDI files into folder "drum_generator_model/input_midi/" (Check the file naming rules in "step_1_midi_data_preprocessing.ipynb")
 5. Install all python dependencies 
 6. Run the Notebook files from step_1_ to step_5_ to generate drum tracks for input MIDI files in "input_midi" folder
 7. Use your own DAW to check the generated drum tracks in the MIDI file in "output_midi" folder
