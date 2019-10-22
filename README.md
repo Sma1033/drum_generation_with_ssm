@@ -28,8 +28,8 @@ Listening example is available [here](https://sma1033.github.io/drum_generation_
 ## How to use
 For now, we only provide generation code of our model. For training details, please refer to our paper. You can follow the the steps below to generate you own drum track.
 
-1. Download all the files into a specific dir, say, ~/drum_generation
-2. Download the SountFonts [here](https://drive.google.com/open?id=1XTrXR27cj02kh1Bxs6YvPTosbQdDN_Am "link"), extract and put it into ~/drum_generation
+1. Download all repository files into your local folder, say, ~/drum_generation/
+2. Download the SountFonts [here](https://drive.google.com/open?id=1XTrXR27cj02kh1Bxs6YvPTosbQdDN_Am "link"), extract and put it into ~/drum_generation/
 3. Download pre-trained drum generation model according to the guildline in "drum_generator_model/readme.md"
 4. Put your own MIDI files into folder "drum_generator_model/input_midi"
 5. Install all python dependencies 
