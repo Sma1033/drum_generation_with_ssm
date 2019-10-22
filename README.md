@@ -26,6 +26,7 @@ Listening example is available [here](https://sma1033.github.io/drum_generation_
 
 
 ## How to use
+
 For now, we only provide generation part of our model. For training details, please refer to our paper. You can follow the the steps below to generate you own drum track.
 
 1. Download all repository files into your local folder, say, ~/drum_generation/
@@ -36,5 +37,9 @@ For now, we only provide generation part of our model. For training details, ple
 6. Run the Notebook files from step_1_ to step_5_ to generate drum tracks for input MIDI files in "input_midi" folder
 7. Use your own DAW to check the generated drum tracks in the MIDI file in "output_midi" folder
 
+## Explanation for files
 
+- [`step_1_midi_data_preprocessing.ipynb`] pre processing
+
+- [`step_2_generate_drum_ssm_from_melodic_ssm.ipynb`] pre processing 2
 
