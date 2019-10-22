@@ -39,8 +39,13 @@ For now, we only provide generation part of our model. For training details, ple
 
 ## Explanation for files
 
-- [`step_1_midi_data_preprocessing.ipynb`] <br/>
-  : pre processing fgfsdgsdfg  ghfdh
+- `step_1_midi_data_preprocessing.ipynb`:<br/>
+   pre processing fgfsdgsdfg  ghfdh
 
-- [`step_2_generate_drum_ssm_from_melodic_ssm.ipynb`] pre processing 2
+- `step_2_generate_drum_ssm_from_melodic_ssm.ipynb`:<br/>
+   pre processing 2
+   
+   
+   
+   
 
